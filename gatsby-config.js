@@ -2,9 +2,9 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'WR Pressings',
+    title: 'WR Pressings Ltd.',
     description: 'my theme',
-    phone: '01484 38080',
+    phone: '01484 380380',
     email: 'sales@wrp-ltd.co.uk'
   },
   plugins: [

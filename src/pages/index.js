@@ -18,7 +18,7 @@ const Home = props => {
       <Helmet>
         <meta
           name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          content="Metal pressings. Engineering. metalwork. general presswork. metal. Deep Drawn metal based in Brighouse, West Yorkshire."
         />
       </Helmet>
 
